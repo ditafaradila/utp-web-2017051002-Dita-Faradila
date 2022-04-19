@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@600&display=swap');
+
+:root{
+    --font-family: 'Akshar', sans-serif;
+}
+
+.tabel{
+    background-color: snow;
+    color: black;
+    padding: 0 30px;
+    font-family: 'Akshar', sans-serif;
+}
+
+.jadwal{
+    background-color: rgb(209, 209, 209);
+    color: black;
+    padding: 0 30px;
+    font-family: 'Akshar', sans-serif;
+}
+
+.footer {
+    grid-area: footer;
+    background: white;
+}
